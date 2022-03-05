@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+
+
+
 - 🔭 I’m currently working on upgrading myself.
 - 🌱 I’m currently learning C++ and Object Oriented Programming.
 - 👯 I’m looking to collaborate on nothing at the moment.
